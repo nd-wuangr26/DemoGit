@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Du_lieu_tong_hop\\K57KMT\\OOP\\OOP_NHAN_KHAU\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F73A6E9A-0211-40FE-AD72-A7AEE0F786DB}|OOP_NHAN_KHAU\\OOP_NHAN_KHAU.vcxproj|D:\\Du_lieu_tong_hop\\K57KMT\\OOP\\OOP_NHAN_KHAU\\OOP_NHAN_KHAU\\quan_ly_nhan_khau.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F73A6E9A-0211-40FE-AD72-A7AEE0F786DB}|OOP_NHAN_KHAU\\OOP_NHAN_KHAU.vcxproj|solutionrelative:OOP_NHAN_KHAU\\quan_ly_nhan_khau.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "quan_ly_nhan_khau.cpp",
+              "DocumentMoniker": "D:\\Du_lieu_tong_hop\\K57KMT\\OOP\\OOP_NHAN_KHAU\\OOP_NHAN_KHAU\\quan_ly_nhan_khau.cpp",
+              "RelativeDocumentMoniker": "OOP_NHAN_KHAU\\quan_ly_nhan_khau.cpp",
+              "ToolTip": "D:\\Du_lieu_tong_hop\\K57KMT\\OOP\\OOP_NHAN_KHAU\\OOP_NHAN_KHAU\\quan_ly_nhan_khau.cpp",
+              "RelativeToolTip": "OOP_NHAN_KHAU\\quan_ly_nhan_khau.cpp",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAAACoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-01T16:49:13.44Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
